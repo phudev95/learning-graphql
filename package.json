@@ -1,0 +1,11 @@
+{
+  "name": "learning-graphql",
+  "version": "1.0.0",
+  "description": "Learning GraphQL",
+  "main": "index.js",
+  "author": "Phu Phan <phu.phan@vinasource.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql": "^0.9.3"
+  }
+}
