@@ -9,5 +9,20 @@
     "express": "^4.15.2",
     "express-graphql": "^0.6.4",
     "graphql": "^0.9.3"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phudev95/learning-graphql.git"
+  },
+  "keywords": [
+    "graphql"
+  ],
+  "bugs": {
+    "url": "https://github.com/phudev95/learning-graphql/issues"
+  },
+  "homepage": "https://github.com/phudev95/learning-graphql#readme"
 }
